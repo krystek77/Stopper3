@@ -1,0 +1,8 @@
+button {
+    background-color:red;
+    color:white;
+}
+button.reset:hover,button.reset:focus {
+    color:red;
+    background-color:white;
+}
